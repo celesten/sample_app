@@ -10,7 +10,7 @@ padding-top: 20px;
 header img {
 padding: 1em;
 background: #fff;
-}
+} 
 section {
 margin-top: 1em;
 font-size: 120%;
@@ -33,14 +33,13 @@ a:visited {
 color: #069;
 }
 /* Navigation */
-nav {
-float: right;
-}
-nav {
+nav { float: right; } 
+/* nav {
 background-color: white;
 padding: 0 0.7em;
 white-space: nowrap;
-}
+} */
+
 nav ul {
 margin: 0;
 padding: 0;
@@ -78,5 +77,16 @@ padding: 20px;
 -moz-border-radius: 10px;
 -webkit-border-radius: 10px;
 border-radius: 10px;
+}
+/* Footer */
+footer {
+text-align: center;
+margin-top: 10px;
+width: 710px;
+margin-left: auto;
+margin-right: auto;
+}
+footer nav {
+float: none;
 }
 

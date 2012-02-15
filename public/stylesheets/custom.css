@@ -10,7 +10,7 @@ padding-top: 20px;
 header img {
 padding: 1em;
 background: #fff;
-}
+} 
 section {
 margin-top: 1em;
 font-size: 120%;
@@ -33,14 +33,13 @@ a:visited {
 color: #069;
 }
 /* Navigation */
-nav {
-float: right;
-}
+nav { float: right; } 
 nav {
 background-color: white;
 padding: 0 0.7em;
 white-space: nowrap;
-}
+} 
+
 nav ul {
 margin: 0;
 padding: 0;
