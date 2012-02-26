@@ -34,11 +34,11 @@ color: #069;
 }
 /* Navigation */
 nav { float: right; } 
-/* nav {
+nav {
 background-color: white;
 padding: 0 0.7em;
 white-space: nowrap;
-} */
+} 
 
 nav ul {
 margin: 0;
